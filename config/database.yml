@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  database: blog
+  pool: 5
+  username: root
+  password: 516400
+  encoding: utf8
+  host: localhost
+
